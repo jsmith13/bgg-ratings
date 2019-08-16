@@ -1,5 +1,5 @@
 # BoardGameGeek Ratings
-Identifying factors associated with user ratings of board games.
+Identifying factors associated with user ratings of board games.  
 http://jakeallensmith.com/projects/boardgamegeek-ratings/
 
 ## Objectives
