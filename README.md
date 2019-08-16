@@ -1,6 +1,6 @@
 # BoardGameGeek Ratings
 Identifying factors associated with user ratings of board games.
-http://bicologie.com/jakeallensmith/projects/boardgamegeek-ratings/
+http://jakeallensmith.com/projects/boardgamegeek-ratings/
 
 ## Objectives
 - Understand the factors associated with high user ratings for board games on BoardGameGeek.
